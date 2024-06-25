@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Tech-divinity
+- 👀 I’m interested in ...webDevelopment
+- 🌱 I’m currently learning ...webTechnologies
+- 💞️ I’m looking to collaborate on ...webTechnologies
+- 📫 How to reach me ...princekelvingwaza@gmail.com
+- 😄 Pronouns: ...His excellency
+- ⚡ Fun fact: ...attitudeIsEverything
+
+<!---
+Tech-divinity/Tech-divinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
