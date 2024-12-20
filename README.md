@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tech-divinity
+- 👋 Hi, I’m @PrinceUI/UX
 - 👀 I’m interested in ...webDevelopment
 - 🌱 I’m currently learning ...webTechnologies
 - 💞️ I’m looking to collaborate on ...webTechnologies
