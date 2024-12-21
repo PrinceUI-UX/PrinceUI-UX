@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceUI/UX
 - 👀 I’m interested in ...webDevelopment
-- 🌱 I’m currently learning ...webTechnologies
-- 💞️ I’m looking to collaborate on ...webTechnologies
+- 🌱 I’m currently learning ...HTML CSS JAVASCRIPT
+- 💞️ I’m looking to collaborate on ...JS
 - 📫 How to reach me ...princekelvingwaza@gmail.com
 - 😄 Pronouns: ...His excellency
 - ⚡ Fun fact: ...attitudeIsEverything
